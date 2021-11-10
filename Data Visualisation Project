@@ -1,1 +1,7 @@
 https://sites.google.com/view/ie6600-sec05-group1-project1/
+
+The above link is for the project that I have created based on the Movies and Oscars Data. 
+I have used R to clean the data from scratch and SQL to map data from different files based on the common field.
+After getting the data, we plotted the graphs by using Flourish.studio and Data wrapper tools.
+
+There are a variety of graphs that we have plotted. To name some we have bar charts, line graphs, alluvial charts, Treemap graphs and so on.
